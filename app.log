@@ -1,0 +1,13 @@
+2026-01-29 12:47:59,761 - INFO - user get logged in
+2026-01-29 12:47:59,761 - WARNING - Warning generated
+2026-01-29 12:47:59,762 - ERROR - Error occurred
+2026-01-29 12:48:08,436 - INFO - user get logged in
+2026-01-29 12:48:08,436 - WARNING - Warning generated
+2026-01-29 12:48:08,436 - ERROR - Error occurred
+2026-01-29 12:54:23,665 - INFO - user get logged in
+2026-01-29 12:54:23,666 - WARNING - Warning generated
+2026-01-29 12:54:23,666 - ERROR - Error occurred
+2026-01-29 12:54:23,666 - __main__ - INFO - Application started
+2026-01-29 12:54:23,666 - INFO - Application started
+2026-01-29 12:54:23,666 - __main__ - ERROR - An error occurred
+2026-01-29 12:54:23,666 - ERROR - An error occurred
